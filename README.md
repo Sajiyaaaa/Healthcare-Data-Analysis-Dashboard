@@ -42,5 +42,3 @@ The **Healthcare Data Analysis Dashboard** aims to:
 
 
 
-⭐ *If you like this project, give it a star on GitHub!*
-
